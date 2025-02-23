@@ -5,3 +5,4 @@
 > 3. Data manipulation
 > 4. Functions and operators
 > 5. Joins
+> 6. Database design
