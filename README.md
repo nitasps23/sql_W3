@@ -4,3 +4,4 @@
 > 2. Queries
 > 3. Data manipulation
 > 4. Functions and operators
+> 5. Joins
