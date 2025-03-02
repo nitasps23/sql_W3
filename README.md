@@ -7,5 +7,6 @@
 > 5. Joins
 > 6. Database design
 > 7. Constraints and keys
+> 8. 
 >
 > 
