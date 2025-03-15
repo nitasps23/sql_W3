@@ -12,6 +12,7 @@
 >    - IN
 >    - BETWEEN
 >    - Aliases
+>    - UNION
 > 4. Data manipulation
 > 5. Functions and operators
 > 6. Joins
