@@ -19,6 +19,8 @@
 >    - ANY, ALL
 > 3. Data manipulation
 >    - INSERT INTO
+>    - NULL Values
+>    - 
 >    - 
 > 5. 
 > 6. Functions and operators
