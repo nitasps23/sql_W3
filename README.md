@@ -20,7 +20,7 @@
 > 3. Data manipulation
 >    - INSERT INTO
 >    - NULL Values
->    - 
+>    - UPDATE
 >    - 
 > 5. 
 > 6. Functions and operators
