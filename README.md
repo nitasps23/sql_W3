@@ -17,12 +17,15 @@
 >    - HAVING
 >    - EXISTS
 >    - ANY, ALL
-> 4. Data manipulation
-> 5. Functions and operators
-> 6. Joins
-> 7. Database design
-> 8. Constraints and keys
+> 3. Data manipulation
+>    - INSERT INTO
+>    - 
+> 5. 
+> 6. Functions and operators
+> 7. Joins
+> 8. Database design
+> 9. Constraints and keys
 >
-> 9. 
+> 10. 
 >
 > 
