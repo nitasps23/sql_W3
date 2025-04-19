@@ -21,7 +21,7 @@
 >    - INSERT INTO
 >    - NULL Values
 >    - UPDATE
->    - 
+>    - DELETE
 > 5. 
 > 6. Functions and operators
 > 7. Joins
