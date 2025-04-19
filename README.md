@@ -22,6 +22,7 @@
 >    - NULL Values
 >    - UPDATE
 >    - DELETE
+>    - SELECT INTO
 > 5. 
 > 6. Functions and operators
 > 7. Joins
