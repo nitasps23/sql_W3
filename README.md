@@ -25,6 +25,7 @@
 >    - SELECT INTO
 >    - INSERT INTO SELECT
 >    - Views
+>    - Stored Procedures
 > 5. 
 > 6. Functions and operators
 > 7. Joins
