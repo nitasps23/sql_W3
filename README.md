@@ -23,6 +23,7 @@
 >    - UPDATE
 >    - DELETE
 >    - SELECT INTO
+>    - INSERT INTO SELECT
 > 5. 
 > 6. Functions and operators
 > 7. Joins
