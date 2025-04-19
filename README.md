@@ -24,6 +24,7 @@
 >    - DELETE
 >    - SELECT INTO
 >    - INSERT INTO SELECT
+>    - Views
 > 5. 
 > 6. Functions and operators
 > 7. Joins
